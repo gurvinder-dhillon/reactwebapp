@@ -2,10 +2,10 @@ function Promo() {
     return (
         <div className="promo-section">
             <div>
-                <h1>Don't miss the deal!</h1>
+                <h1>Merry Christmas!</h1>
             </div>
             <div>
-                <h2>Subscribe to my newsletter and get all the shop items at 50% off!</h2>
+                <h2>With Love From Anhad and Gurvinder to Raman!</h2>
             </div>
         </div>
     );
